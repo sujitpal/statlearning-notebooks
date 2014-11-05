@@ -13,4 +13,4 @@ List of Notebooks:
 * [Chapter 9: Support Vector Machines](http://nbviewer.ipython.org/github/sujitpal/statlearning-notebooks/blob/master/src/chapter9.ipynb)
 * [Chapter 10: Unsupervised Methods](http://nbviewer.ipython.org/github/sujitpal/statlearning-notebooks/blob/master/src/chapter10.ipynb)
 
-More information in [my blog post](http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html).
+The notebooks are also accessible from [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) under the Statistics, Machine Learning and Data Science section. More information in [my blog post](http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html).
