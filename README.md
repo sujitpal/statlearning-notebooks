@@ -14,3 +14,5 @@ List of Notebooks:
 * [Chapter 10: Unsupervised Methods](http://nbviewer.ipython.org/github/sujitpal/statlearning-notebooks/blob/master/src/chapter10.ipynb)
 
 The notebooks are also accessible from [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) under the Statistics, Machine Learning and Data Science section. More information in [my blog post](http://sujitpal.blogspot.com/2014/05/ipython-notebooks-for-statlearning.html).
+
+This project was linked from [Statistics.md](https://github.com/svaksha/pythonidae/blob/master/Statistics.md) of this project containing [many curated lists of links to Python scientific programming resources](https://github.com/svaksha/pythonidae).
